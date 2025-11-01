@@ -17,8 +17,3 @@ Dibangun menggunakan **PHP**, **JavaScript**, dan **Bootstrap**.
 - Node.js (server.js)
 - MySQL (database)
 
-## 📦 Cara Menjalankan di Lokal
-```bash
-git clone https://github.com/lord-aizen-cyber/website-top-up-game.git
-cd website-top-up-game
-php artisan serve
